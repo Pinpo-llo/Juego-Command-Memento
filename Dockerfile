@@ -1,5 +1,5 @@
 
-# Usamos una imagen oficial de Java 22 (o 21 si prefieres LTS)
+# Usamos una imagen oficial de Java 22 
 FROM eclipse-temurin:22-jre
 
 # Carpeta donde vivirá la app dentro del contenedor
